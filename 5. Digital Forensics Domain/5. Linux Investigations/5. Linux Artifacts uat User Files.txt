@@ -1,0 +1,2 @@
+https://searchsecurity.techtarget.com/definition/steganography
+https://github.com/Paradoxis/StegCracker

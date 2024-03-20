@@ -1,0 +1,16 @@
+https://attack.mitre.org/tactics/TA0004
+https://attack.mitre.org/techniques/T1078
+https://attack.mitre.org/techniques/T1068/
+https://nvd.nist.gov/vuln/detail/CVE-2017-0263
+https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-0263
+https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/types-of-windows-drivers
+https://nvd.nist.gov/vuln/detail/CVE-2016-7255
+https://www.securityfocus.com/bid/94064/info
+
+
+
+
+
+
+
+

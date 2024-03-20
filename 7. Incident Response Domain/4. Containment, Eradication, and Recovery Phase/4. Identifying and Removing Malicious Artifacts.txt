@@ -1,0 +1,7 @@
+http://technet.microsoft.com/en-us/sysinternals/bb896653
+http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx
+https://www.techrepublic.com/blog/it-security/how-to-track-down-malware-from-your-firewall-with-basic-tools/
+http://technet.microsoft.com/en-us/sysinternals/bb897445.aspx
+http://www.mcafee.com/us/downloads/free-tools/stinger.aspx
+http://www.microsoft.com/security/pc-security/malware-removal.aspx
+http://www.avira.com/en/download/product/avira-rescue-system

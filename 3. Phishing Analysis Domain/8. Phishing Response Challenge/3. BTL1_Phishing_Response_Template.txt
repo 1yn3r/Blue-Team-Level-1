@@ -1,0 +1,90 @@
+BTL1 Phishing Response Challenge
+================================
+
+Please refer to the challenge brief if you are unsure on what you must do.
+Below is format for writing your two reports, based on the malicious emails that you identify from the sample.
+You can use these reports to answer questions during the challenge submission.
+
+Good luck, and work hard - this will help you during the BTL1 exam!
+
+
+===============================
+Malicious Email #1 (Lowest ID Value)
+===============================
+
+[+] Email Artifacts:
+
+> Brief description of how the email looks, and what it is trying to do.
+
+> What is the sending adddress?
+
+> What is the subject line?
+
+> Who are the recipients?
+
+> What is the reply-to address? (if present)
+
+> What is the date and time the email was sent? (convert from your timezone to UTC)
+
+> What is the sending sever IP?
+
+> What is the reverse DNS result of the IP?
+
+
+[+] Web Artifacts:
+
+> What is the full URL?
+
+> What is the root domain?
+
+> What analysis have you done? (URL2PNG, WannaBrowser, VirusTotal, URLScan.io, etc)
+
+
+[+] Defensive Measures:
+
+> What defensive measures do you want to take regarding email artifacts?
+
+> What defensive measures do you want to take regarding web artifacts?
+
+
+
+===============================
+Malicious Email #1 (Highest ID Value)
+===============================
+
+[+] Email Artifacts:
+
+> Brief description of how the email looks, and what it is trying to do.
+
+> What is the sending adddress?
+
+> What is the subject line?
+
+> Who are the recipients?
+
+> What is the reply-to address? (if present)
+
+> What is the date and time the email was sent? (convert from your timezone to UTC)
+
+> What is the sending sever IP?
+
+> What is the reverse DNS result of the IP?
+
+
+[+] File Artifacts:
+
+> What is the full file name, including file type?
+
+> What is the SHA256 hash value of the file?
+
+> What analysis have you done? (Talos File Reputation, VirusTotal, etc)
+
+
+[+] Defensive Measures:
+
+> What defensive measures do you want to take regarding email artifacts?
+
+> What defensive measures do you want to take regarding file artifacts?
+
+
+

@@ -1,0 +1,2 @@
+https://docs.splunk.com/Documentation/Splunk/8.0.4/SearchTutorial/Startsearching
+https://www.youtube.com/watch?v=xtyH_6iMxwA

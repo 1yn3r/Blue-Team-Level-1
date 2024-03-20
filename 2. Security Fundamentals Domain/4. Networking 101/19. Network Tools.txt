@@ -1,0 +1,4 @@
+https://nmap.org/download.html
+https://www.sans.org/blog/sans-pen-test-cheat-sheet-nmap-v1-1/
+https://s3-us-west-2.amazonaws.com/stationx-public-download/nmap_cheet_sheet_0.6.pdf
+https://nmap.org/book/nse.html

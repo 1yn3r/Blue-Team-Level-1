@@ -1,0 +1,10 @@
+https://attack.mitre.org/tactics/TA0009/
+https://attack.mitre.org/techniques/T1114/
+https://attack.mitre.org/techniques/T1123/
+https://attack.mitre.org/techniques/T1113/
+https://attack.mitre.org/techniques/T1005/
+https://attack.mitre.org/techniques/T1114/001/
+https://attack.mitre.org/techniques/T1114/002/
+https://attack.mitre.org/techniques/T1114/003/
+https://attack.mitre.org/techniques/T1119
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/forfiles

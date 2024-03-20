@@ -1,0 +1,24 @@
+Some great sources of free and open source intelligence include:
+
+http://tweettioc.com/feed/
+https://www.spamhaus.org/
+https://urlhaus.abuse.ch/
+https://otx.alienvault.com/
+https://otx.alienvault.com/
+https://virusshare.com/
+https://threatfeeds.io/
+https://www.anomali.com/learn/wtb-ff
+https://www.cisa.gov/automated-indicator-sharing-ais
+https://isc.sans.edu/
+https://talosintelligence.com/
+
+If you’re interested in finding out more about paid-for intelligence, take a look at the sites for some of the giants in this game:
+
+https://www.fireeye.com/
+https://www.recordedfuture.com/
+https://www.crowdstrike.com/
+https://www.crowdstrike.com/
+https://www.flashpoint-intel.com/
+https://intel471.com/
+
+

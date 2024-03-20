@@ -1,0 +1,3 @@
+https://attack.mitre.org/tactics/TA0008/
+https://attack.mitre.org/techniques/T1021/
+https://attack.mitre.org/techniques/T1534/

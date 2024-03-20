@@ -1,0 +1,5 @@
+https://github.com/virustotal/yara/releases/tag/v4.0.2
+https://askubuntu.com/questions/265471/autoreconf-not-found-error-during-making-qemu-1-4-0
+https://stackoverflow.com/questions/18978252/error-libtool-library-used-but-libtool-is-undefined
+https://yara.readthedocs.io/en/stable/gettingstarted.html
+https://github.com/Neo23x0/yarGen/releases

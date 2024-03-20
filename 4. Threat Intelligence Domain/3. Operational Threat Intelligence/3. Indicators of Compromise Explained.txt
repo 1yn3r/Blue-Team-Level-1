@@ -1,0 +1,3 @@
+https://oasis-open.github.io/cti-documentation/stix/intro.html
+https://stix.mitre.org/language/version1.0.1/samples.html
+https://medium.com/sekoia-io-blog/stix-and-taxii-c1f596866384

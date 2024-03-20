@@ -1,0 +1,5 @@
+https://www.snort.org/
+https://suricata-ids.org/
+https://zeek.org/
+https://www.pfsense.org/
+https://www.esecurityplanet.com/network-security/finetune-and-optimize-firewall-rules.html

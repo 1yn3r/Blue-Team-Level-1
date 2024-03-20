@@ -1,0 +1,41 @@
+Nation-State-Based Adversaries
+
+https://www.crowdstrike.com/blog/meet-the-adversaries/
+https://www.crowdstrike.com/blog/who-is-fancy-bear/
+https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/
+https://www.crowdstrike.com/blog/who-is-refined-kitten/
+https://www.crowdstrike.com/blog/adversary-of-the-month-for-may/
+https://www.crowdstrike.com/blog/two-birds-one-stone-panda/
+https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/
+
+Non-Nation-State Adversaries
+
+https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-february-mummy-spider/
+
+
+Nation-State-Based Adversaries
+
+https://attack.mitre.org/groups/G0006/
+https://attack.mitre.org/groups/G0024/
+https://attack.mitre.org/groups/G0022/
+https://attack.mitre.org/groups/G0045/
+https://attack.mitre.org/groups/G0073/
+https://medium.com/@Sekoia_team/apt20-the-limits-of-mfa-exposed-by-a-chinese-hacker-group-fe4cc4b3b107
+https://attack.mitre.org/groups/G0013/
+https://attack.mitre.org/groups/G0065/
+https://attack.mitre.org/groups/G0059/
+https://attack.mitre.org/groups/G0087/
+https://attack.mitre.org/groups/G0067/
+https://attack.mitre.org/groups/G0082/
+https://attack.mitre.org/groups/G0007/
+https://attack.mitre.org/groups/G0016/
+https://attack.mitre.org/groups/G0050/
+
+Financially-Motivated Cybercrime Groups
+
+https://attack.mitre.org/groups/G0085/
+https://attack.mitre.org/groups/G0053/
+https://attack.mitre.org/groups/G0037/
+https://attack.mitre.org/groups/G0046/
+https://attack.mitre.org/groups/G0061/
+https://attack.mitre.org/groups/G0051/

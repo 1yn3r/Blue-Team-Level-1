@@ -1,0 +1,2 @@
+https://www.circl.lu/misp-images/latest/
+https://www.virtualbox.org/wiki/Downloads

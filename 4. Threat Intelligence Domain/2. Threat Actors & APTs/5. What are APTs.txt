@@ -1,0 +1,3 @@
+https://attack.mitre.org/groups/G0007/
+https://attack.mitre.org/groups/G0080/
+https://attack.mitre.org/groups/G0050

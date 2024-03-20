@@ -1,0 +1,4 @@
+Sophos Phish Threat – https://www.sophos.com/en-us/products/phish-threat.aspx
+GoPhish Open-Source – https://getgophish.com/
+Trend Micro’s Phish Insight – https://phishinsight.trendmicro.com/en/simulator
+PhishingBox – https://www.phishingbox.com/

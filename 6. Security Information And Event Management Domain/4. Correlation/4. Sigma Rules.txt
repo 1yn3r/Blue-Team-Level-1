@@ -1,0 +1,2 @@
+https://github.com/Neo23x0/sigma
+https://github.com/SigmaHQ/sigma/tree/master/rules

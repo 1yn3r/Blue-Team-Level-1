@@ -1,0 +1,6 @@
+https://www.manageengine.eu/network-monitoring/Eventlog_Tutorial_Part_I.html
+https://www.loggly.com/ultimate-guide/windows-logging-basics/#
+https://eventlogxp.com/essentials/securityauditing.html
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+https://www.andreafortuna.org/2019/06/12/windows-security-event-logs-my-own-cheatsheet/
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4672

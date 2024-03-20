@@ -1,0 +1,5 @@
+https://www.graylog.org/
+https://www.microfocus.com/en-us/products/siem-security-information-event-management/overview
+https://www.ibm.com/uk-en/security/security-intelligence/qradar
+https://logrhythm.com/
+https://www.splunk.com/en_us/platform.html

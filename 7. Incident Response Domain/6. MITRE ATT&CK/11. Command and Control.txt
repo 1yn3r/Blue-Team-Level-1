@@ -1,0 +1,5 @@
+https://attack.mitre.org/tactics/TA0011
+https://attack.mitre.org/techniques/T1071
+https://attack.mitre.org/techniques/T1102
+https://attack.mitre.org/techniques/T1571
+https://us-cert.cisa.gov/ncas/analysis-reports/AR18-165A

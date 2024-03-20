@@ -1,0 +1,9 @@
+https://securityintelligence.com/dont-dwell-on-it-how-to-detect-a-breach-on-your-network-more-efficiently/
+https://www.researchgate.net/publication/329972954_NIST_Special_Publication_800-61_Revision_2_Computer_Security_Incident_Handling_Guide
+https://www.sans.org/reading-room/whitepapers/threatintelligence/cyber-threat-intelligence-support-incident-handling-38150
+http://www.tsc.edu/images/helpdesk/TSC_-_IT_3.6_IT_Security_Incident_Response.pdf
+https://blog.rapid7.com/2017/02/13/detection-and-analysis-phase-of-incident-response-life-cycle-of-nist-sp-800-61/
+https://www.informit.com/articles/article.aspx?p=31339&seqNum=2
+http://blog.sbbinsure.com/cyber-risk-blog/incident-response-plan-detection
+https://slideplayer.com/slide/9435519/
+https://www.uscybersecurity.net/csmag/inside-the-insider-threat/

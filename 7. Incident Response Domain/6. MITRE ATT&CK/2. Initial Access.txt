@@ -1,0 +1,17 @@
+https://attack.mitre.org/tactics/TA0001
+
+https://attack.mitre.org/techniques/T1189/
+https://attack.mitre.org/techniques/T1190/
+https://attack.mitre.org/techniques/T1133/
+https://attack.mitre.org/techniques/T1200/
+https://attack.mitre.org/techniques/T1566/
+https://attack.mitre.org/techniques/T1091/
+https://attack.mitre.org/techniques/T1195/
+https://attack.mitre.org/techniques/T1199/
+https://attack.mitre.org/techniques/T1078/
+
+
+https://hackaday.com/2018/09/17/diy-rubber-ducky-is-as-cheap-as-its-namesake/
+https://www.amazon.co.uk/LINDY-USB-Port-Blocker-Colour/dp/B000I2JWJA
+https://www.techrepublic.com/article/how-to-track-down-usb-flash-drive-usage-in-windows-10s-event-viewer/
+

@@ -1,0 +1,7 @@
+https://azure.microsoft.com/en-us/services/monitor/#features
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/manage-access
+https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language
+https://searchapparchitecture.techtarget.com/definition/RESTful-API
+https://docs.aws.amazon.com/index.html
+https://github.com/facebook/osquery
+https://github.com/aol/moloch

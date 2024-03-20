@@ -1,0 +1,2 @@
+1. https://labs.bitdefender.com/2019/08/new-homograph-phishing-attack-impersonates-bank-of-valletta-leverages-valid-tls-certificate/
+2. https://thehackernews.com/2017/04/unicode-Punycode-phishing-attack.html

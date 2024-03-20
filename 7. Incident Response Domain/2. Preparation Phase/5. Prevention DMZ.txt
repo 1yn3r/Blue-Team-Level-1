@@ -1,0 +1,10 @@
+DMZs:
+
+https://www.spamlaws.com/how-dmz-works.html
+https://www.barracuda.com/glossary/dmz-network
+https://searchsecurity.techtarget.com/definition/DMZ
+Honeypots:
+
+https://phase3.net/blogs/tech-bytes/how-to-create-a-honeypot-to-catch-a-hacker
+https://www.csoonline.com/article/3384702/what-is-a-honeypot-a-trap-for-catching-hackers-in-the-act.html
+https://www.imperva.com/learn/application-security/honeypot-honeynet/
